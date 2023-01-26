@@ -1,0 +1,99 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <link rel="stylesheet" href="mysite.css">
+    <title>Document</title>
+</head>
+<body>
+    <div class="a">
+        <img class="ab"  src="cloud.png" alt="">
+        
+        <h1 class="er">I'm Mohd Fuzail</h1>
+        <p>a coder</p>
+        <img class="ba"  src="cloud.png" alt="">
+        <img class="cd" src="mountain.png" alt="">
+    </div>
+    <div class="b">
+
+        <div class="middle-container">
+            <div class="profile">
+              <img class="qw1" src="30198.jpg" alt="">
+              <h2>Hello.</h2>
+              <p>I'm Software engineer with excellent problem solving skills and ability to perfom well in a team.Passionate about coding and enjoy learning new things.</p>
+            </div>
+            <hr>
+            <div class="skills">
+              <h2>My Skills.</h2>
+              <div class="skill-row">
+                <h3>Programming Language</h3>
+                <table>
+
+                
+                <tr> 
+                  <td> 
+                <img class="qw" src="https://cdn-icons-png.flaticon.com/512/1056/1056005.png" alt=""></td>
+                <td> 
+                 
+                <p><ul>
+                  <dl>C Language</dl>
+                  <dl>C++</dl>
+                  <dl>Python</dl>
+                  <dl>Javascript</dl>
+                  <dl>Node.js</dl>
+                </ul>
+                    .</p>
+                  </td>
+                  </tr>
+                  </table>
+              </div>
+              <div class="skill-row">
+                <h3>Others</h3>
+                <table> 
+                  <tr><td> <p class="qw2"> <ul>
+                    <dl>DSA</dl>
+                    <dl>Web Delopment</dl>
+                    <dl>Operating System</dl>
+                    <dl>Computer Networking</dl>
+                  </ul></p>
+                 
+                </td>
+                <td>
+                  <img class="qw23" src="https://cdn-icons-png.flaticon.com/512/9375/9375367.png" alt="">
+                 
+                </td>
+                </tr>
+              </table>
+              </div>
+             
+            </div>
+            <hr>
+            <div class="contact-me">
+              <h2>Get In Touch</h2>
+              <h3>Here are some link through which you contact me.</h3>
+              <p>Thank You</p>
+              <div class="cs"> 
+              <a class="btn" href="mailto:mohdfuzail489@gmail.com">CONTACT ME</a>
+              <a class="btn" href="https://www.linkedin.com/in/mohd-fuzail-7bb21a22a/">LinkedIn</a>
+              <a class="btn" href="https://twitter.com/">Twitter</a><br><br><br><br>
+              <a class="btn" href="https://www.appbrewery.co/">Website</a><br>
+              <div class="cr">
+                <p>© Mohd Fuzail.</p>
+              </div>
+</div>
+            </div>
+           
+          
+           
+           
+          
+    </div>
+    <div class="c">
+         <h2 class="d">MF</h2>
+         <h2 class="e">start</h2>  
+         <h2 class="f">information</h2> 
+         <h2 class="g">contact</h2> 
+         <h2 class="h">profile</h2>  
+    </div>
+</body>
+</html>
